@@ -7,7 +7,7 @@ The shared shadcn theme for Circuit Central apps: navy with a sunflower highligh
 From an app's `frontend` folder, with the release tag:
 
 ```
-bunx shadcn add https://raw.githubusercontent.com/19th-Judicial-Circuit-Court/circuit-central-theme/v0.2.0/courthouse.json
+bunx shadcn add https://raw.githubusercontent.com/19th-Judicial-Circuit-Court/circuit-central-theme/v0.2.1/courthouse.json
 ```
 
 Rerun it with a newer tag to update.
@@ -17,6 +17,7 @@ Change the theme here, never in an app's `index.css`.
 
 `bg-highlight`, `text-highlight-foreground`, and `bg-highlight-muted` are the playful accent.
 Use them sparingly, for things that need a second look.
+Text on `bg-highlight-muted` uses `text-highlight-muted-foreground`, and a sunflower outline uses `border-highlight-border`, which stays visible on white.
 
 ## Status colors
 

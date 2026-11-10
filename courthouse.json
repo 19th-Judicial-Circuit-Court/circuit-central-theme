@@ -13,7 +13,9 @@
       "color-highlight-foreground": "var(--highlight-foreground)",
       "color-highlight-muted": "var(--highlight-muted)",
       "color-destructive-muted": "var(--destructive-muted)",
-      "color-destructive-muted-foreground": "var(--destructive-muted-foreground)"
+      "color-destructive-muted-foreground": "var(--destructive-muted-foreground)",
+      "color-highlight-muted-foreground": "var(--highlight-muted-foreground)",
+      "color-highlight-border": "var(--highlight-border)"
     },
     "light": {
       "radius": "0.625rem",
@@ -40,6 +42,8 @@
       "highlight": "oklch(0.818 0.157 82.3)",
       "highlight-foreground": "oklch(0.291 0.06 82.4)",
       "highlight-muted": "oklch(0.965 0.046 90.9)",
+      "highlight-muted-foreground": "oklch(0.291 0.06 82.4)",
+      "highlight-border": "oklch(0.6 0.125 72)",
       "chart-1": "oklch(0.379 0.138 265.2)",
       "chart-2": "oklch(0.818 0.157 82.3)",
       "chart-3": "oklch(0.565 0.157 266)",
@@ -78,6 +82,8 @@
       "highlight": "oklch(0.818 0.157 82.3)",
       "highlight-foreground": "oklch(0.248 0.051 85.9)",
       "highlight-muted": "oklch(0.31 0.047 88.7)",
+      "highlight-muted-foreground": "oklch(0.818 0.157 82.3)",
+      "highlight-border": "oklch(0.818 0.157 82.3)",
       "chart-1": "oklch(0.705 0.128 267.7)",
       "chart-2": "oklch(0.818 0.157 82.3)",
       "chart-3": "oklch(0.565 0.157 266)",
